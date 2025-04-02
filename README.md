@@ -47,7 +47,7 @@ Este é um exemplo de como funciona. Aqui está uma linha sem timestamp.
 
 ## Autor
 
-Desenvolvido por [Roberto Rocha](https://roberto-rocha.tech).
+Desenvolvido por [Roberto Rocha].
 
 - 🌐 [Site Pessoal](https://roberto-rocha.tech)
 - 🐙 [GitHub](https://github.com/roberto-fgv)
