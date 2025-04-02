@@ -51,6 +51,7 @@ Este é um exemplo de como funciona. Aqui está uma linha sem timestamp.
 
 Desenvolvido por [Roberto Rocha](https://roberto-rocha.tech).
 
-- GitHub: [roberto-fgv](https://github.com/roberto-fgv)
-- LinkedIn: [Roberto Rocha](https://www.linkedin.com/in/rsrocha/)
-- E-mail: rsantos.rocha@gmail.com
+- 🌐 [Site Pessoal](https://roberto-rocha.tech)
+- 🐙 [GitHub](https://github.com/roberto-fgv)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rsrocha/)
+- 📧 E-mail: [rsantos.rocha@gmail.com](mailto:rsantos.rocha@gmail.com)
