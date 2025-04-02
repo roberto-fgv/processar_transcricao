@@ -1,0 +1,4 @@
+# Ignorar todos os arquivos .txt
+*.txt
+
+# Outras regras podem ser adicionadas aqui
