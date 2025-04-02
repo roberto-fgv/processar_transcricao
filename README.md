@@ -41,10 +41,8 @@ Este é um exemplo de como funciona. Aqui está uma linha sem timestamp.
 ## Exemplo de Saída
 
 ```plaintext
-0:15
-Olá, bem-vindo à transcrição.
-0:30
-Este é um exemplo de como funciona. Aqui está uma linha sem timestamp.
+0:15 Olá, bem-vindo à transcrição.
+0:30 Este é um exemplo de como funciona. Aqui está uma linha sem timestamp.
 ```
 
 ## Autor
