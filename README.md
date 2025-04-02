@@ -1,6 +1,6 @@
 # Processador de Transcrição
 
-Este script Python é utilizado para processar arquivos de transcrição de texto, formatando timestamps e organizando o conteúdo de forma mais legível.
+Este script Python é utilizado para processar arquivos de transcrição de texto, formatando timestamps e organizando o conteúdo de forma mais legível. Ele foi projetado para processar transcrições provenientes de legendas do YouTube.
 
 ## Funcionalidades
 
