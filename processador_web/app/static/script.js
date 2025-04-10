@@ -20,23 +20,21 @@ document.addEventListener('DOMContentLoaded', function() {
             return response.json();
         })
         .then(data => {
-            textoProcessadoGlobal = data.texto_processado;
-            textoProcessado.value = data.texto_processado;
-            mensagemErro.textContent = '';
-            downloadButton.style.display = 'block';
-        })
-        .then(data => {
-          if (data.erro) {
-              mensagemErro.textContent = data.erro;
-              textoProcessado.value = '';
-              downloadButton.style.display = 'none';
-          } else {
-              downloadButton.style.display = 'block';
+            if (data.erro) {
+                mensagemErro.textContent = data.erro;
+                textoProcessado.value = '';
+                downloadButton.style.display = 'none';
+            } else {
+                textoProcessadoGlobal = data.texto_processado;
+                textoProcessado.value = data.texto_processado;
+                mensagemErro.textContent = '';
+                downloadButton.style.display = 'block';
+            }
         })
         .catch(error => {
-          mensagemErro.textContent = error.message;
-          textoProcessado.value = '';
-          downloadButton.style.display = 'none';
+            mensagemErro.textContent = error.message;
+            textoProcessado.value = '';
+            downloadButton.style.display = 'none';
         });
     };
 

@@ -1,0 +1,697 @@
+Transcrição
+
+
+0:15 Inicialmente, eu gostaria de entender quando
+0:25 e por que sua organização decidiu implementar as  metodologias ágeis nos processos de de auditoria
+0:31 você puder contar um pouco como foi o início  aí da da implantação da auditoria ágil tá bom?
+0:37 ah não lembro exatamente a data aqui mas acho  que faz mais de 5 anos eh o objetivo era a
+0:47 gente primeiro acompanhar ali a evolução  da organização que tava mudando um modelo
+0:52 projetizado para um modelo ágil e acho que a  gente entendia que que traria alguns benefícios
+1:00 e ah começamos a pilotar com algumas gerências  acho que o resultado foi positivo né tá cada
+1:07 vez mais a gente ter a consegui compartilhar as  informações entre o time E aí aos poucos a gente
+1:13 foi expandindo para toda a auditoria eh e hoje em  dia a gente tem até um um AJ Coach aqui dedicado a
+1:20 dentro da auditoria tá Ah esse início aí foi foi  Teve alguma pressão externa interna assim de de
+1:30 algum contexto específico como vocês eh como é que  você viu isso aí acontecendo dentro da auditoria
+1:36 tá bom ah acho pressão acho que não teve acho que  foi mais eh realmente acompanhar o o movimento do
+1:46 do banco da área de tecnologia que tava mudando  área de RH mudando área de marke diversas áreas
+1:52 a gente escutando eh e acompanhando que era um  movimento bastante Positivo né observando aqui
+1:59
+os ganhos que a gente tinha teria com Agio e a  partir daí a gente o time começou a experimentar
+2:06
+mas não é algo que teve uma pressão externa  foi o próprio surgiu ali do do próprio time
+2:12
+né Eh a auditoria é uma área que se até hoje  não tivesse utilizando práticas ens estaria
+2:18
+funcionando também né talvez de uma forma não  tão colaborativa mas eh continuaria fazendo ali
+2:26
+suas auditorias suas avaliações né E como é que  você vê essas como é que elas foram adaptadas
+2:32
+especificamente para o contexto aí da auditoria  né na na na sua empresa Tá bom então o contexto
+2:39
+da auditoria os proj a a gente tem mini projetos  né Cada auditoria a gente pode considerar que é
+2:47
+um projeto porque ele tem início meio e fim  ele dura ali aproximadamente eh 3S meses né
+2:55
+o acho que a grande adaptação é que a gente não  consegue o time não consegue você não consegue
+3:00
+pegar um time eh e falar que todos vão fazer  participar de um projeto de uma auditoria Então
+3:09
+o que a gente tem aqui são a gente faz auditoria  por portfólio Então você tem diversos eh quando
+3:16
+a gente faz uma release planing por exemplo  a gente fala de diversos trabalhos Então você tem algumas eh alguns tempos algumas cerimônias  ali do do ágil né Eh por exemplo release Plan
+3:30
+ah você tem as dailies mas quando você faz esses  essas reuniões você não Fala especificamente de
+3:35
+um projeto só você fala sobre um portfólio de  projetos acho que essa é a grande diferença
+3:41
+ah eh só para entender um pouco melhor então  vocês vocês quebraram o o planejamento do da
+3:52
+auditoria né Eh provavelmente acho que era anual  se eu se eu não me engano de conversas anteriores
+3:59
+que a gente já teve para um um planejamento um  pouco mais reduzido né quantas semanas como é
+4:06
+que é esse esse planejamento Tá bom então hoje  ele tá a gente já desde que a gente conversou no
+4:15
+passado para isso já teve outras evoluções tá  então o que a gente tem o ano passado não era
+4:20
+assim mas esse ano já tem eh a gente já quebra  em ciclos trimestrais um grupo de trabalhos eh
+4:30
+onde a gente olha a diretoria como um todo e  fala Olha a gente tem então quatro releases
+4:35
+planning num ano são nessas reles que a gente  determina os trabalhos que vão ser trabalhados
+4:42
+as auditorias que vão ser feitas nos próximos  3S meses né Eh você vai começar a conversar com
+4:48
+as pessoas você vai observ observar que a gente  tem dois modelos eu tô trabalhando nesse modelo
+4:54
+intermediário em que eu sei tudo que eu vou  fazer no ano mas eu priorizo a cada três meses
+5:01
+talvez você hora você vai conversar com algumas  pessoas que você vai observar que eh elas só
+5:07
+sabem o que elas vão fazer nos próximos 3S meses  elas não sabem ainda os trabalhos do ano todo eh
+5:15
+isso é estratégico eh por conta do do do cargo  que que tem eh do cargo do do do do papel que
+5:23
+ele exerce ali no no time da auditoria não a  gente tá fazendo uma migração por equipes né
+5:30
+então tem equipes que trabalharam no modelo  que eu tô trabalhando esse esse o modelo que eu tô trabalhando esse ano teve tiveram três  equipes que já trabalharam ano passado e hoje
+5:40
+elas estão no modelo a gente chama de modelo  full estas equipes são quando eu falo equipes
+5:46
+são gerências tá equipes de aproximadamente  10 pessoas né Entendi então ão dentro são
+5:57
+unidades da auditoria que vocês quebraram para e e  o time é formado por em média 10 pessoas é isso aí
+6:05
+ah como você no passado olha n ainda um  pouco pro passado né que queria entender
+6:14
+um pouco como você descreveria o processo Geral  de transição para auditoria ágil eh Quais foram
+6:20
+os principais desafios que vocês identificaram  naquela época ou ainda tá identificando porque você estão em processo de de melhorias  né de de transição eh pelo que entendi
+6:29
+nessa última essa última Ah fala sua Tá bom então  no passado tudo era eh muito novo né então exigia
+6:40
+muito treinamento muita adaptação muitos testes  acho que hoje como a gente já tem times eh hoje a
+6:47
+gente tem aqui uma jao Coach e ela estruturou ali  um time de participantes que a gente chama de aio
+6:54
+Coach ajio Champions e essas pessoas elas estão  eh dispersas pela auditoria eí elas apoiam ali a
+7:02
+ja Coach que é a Andressa Então acho que hoje a  resistência é baixíssimas né porque ela tem ali
+7:09
+uma o apoio de um tem o apoio de um diretor  mas no passado não no passado era tudo mais
+7:15
+ali eh eh a tentativa e erro ali por parte de  um eh da gerência média né você não vinha top
+7:25
+Down hoje em dia você tem um um patrocinador  que fica mais simples né então a a principal
+7:32
+o obstáculo que vocês identificaram aí foi foi a  resistência do do das pessoas dos os mais seniors
+7:40
+o o pessoal que tava entrando como é que como é  que era isso você ah er os era os mais sors né e
+7:47
+a falta de um de um patrocinador e de um diretor  com patrocinador né a falta de um a a falta de
+7:56
+um patrocinador tem um Quando você vem em top é  muito mais simples né é o patrocinador você fala
+8:02
+que abraçava essa mudança né que ele realmente  entendia isso como necessário pra organização
+8:08
+e e e e patrocinava isso né Essa patrocinava  e hoje tem um diretor que patrocine e está na
+8:16
+meta dele naquela época não né naquela época você  tinha que ficar conquistando ali mas não tava na
+8:23
+meta do quase basicamente não estava na meta de  ninguém né Ok essa transição Você se lembra mais
+8:30
+ou menos quando aconteceu essa esse Patrocínio  cara Acho que foi na pandemia a que acho que
+8:41
+acho que a grande mudança foi a contratação  de ma Coach né ah ok então foi em 2000 e
+8:47
+2020 o Roberto Deixa eu só dar uma pausa aqui  rapidinho cara tá ligando aqui rapidão ok
+10:38
+pronto Obrigado Roberto Ah imagina  Hã tá tá me ouvindo aí no áudio né
+10:45
+tô sim tá eh a gente parte pra próxima  questão eh algum contexto importante da
+10:53
+auditoria que levou a adoção de ágil  você consegue identificar esse esse
+11:00
+algo do contexto aí de vocês que que exigiu o ágil  Qual foi algum problema que vocês identificaram
+11:08
+que você você entende que o ágil foi foi relevante  Ah acho que mais eficiência tentar fazer as coisas
+11:19
+mais rápido de forma mais colaborativa n acho  um pouco do que o ágil prega né era não é que
+11:25
+exigiu né foi uma acho que foi uma tentativa né  Tá então colaboração é o que você vê como ponto
+11:34
+importante aí né de vocês eram vocês trabalhavam  antes mais de individual perfil mais o auditor e
+11:42
+suas atividades ali e a gerência né Sem tantas  trocas com com com os outros com com as outras
+11:51
+equipes é só auditoria mesm Ok e em que parte da  Oria o ágil não ele não pode ser usado assim vocês
+12:03
+não não conseguiram implantar por alguma regulação  do Banco Central alguma Norma né Existe alguma
+12:13
+parte que não não pode ser usado não é usado em  na auditoria agora tá na é utilizado por todos os
+12:21
+times Acho que até os times mais administrativos  aqui da própria auditoria usam também ótimo Ok
+12:29
+eh mudando agora um pouco o contexto né Eh  de dinâmicas do time depois da implantação
+12:38
+eh vou trabalhar agora com algumas questões  mais específicas de dinâmicas de times né Eh
+12:46
+como a equipe no caso aí da sua equipe específica  você pode desse contexto ela lida com situações
+12:52
+complexas ou inesperadas que surgem durante  o processo de auditoria ágil por exemplo você
+12:59
+consegue descrever um um exemplo específico eh  se essa que a sua equipe encontrou uma solução
+13:06
+em conjunto em colaboração enfim se você puder  esclarecer esse ponto é é interessante para pra
+13:12
+pesquisa tá bom eh hoje em dia o negócio tá tão eh  no DNA da do time que a gente não sabe não talvez
+13:20
+tem até dificuldade de trabalhar Sem o sem esse  modelo mais colaborativo né então aente tem toda
+13:27
+a cada três semanas já tá reservado na agenda de  todos aqui cada uma sexta a cada três semanas eh
+13:35
+das 9:30 até às 11 a gente se reúne ali para  release planning para para realmente debater
+13:41
+o que que foi feito nas na release anterior e o  que que vai ser feito na próxima e e e e debater
+13:48
+ali os eh os pontos de de melhoria que que teve de  de problema eh os impedimentos a gente vê no dia
+13:56
+a dia e cara é direto a gente tem ali interação  entre entre o time que fala pô preciso fazer um
+14:03
+teste xpto ah mas eu tenho o arquivo para fazer  esse teste você olha lá na no relatório tal Olha
+14:09
+eu já fiz um teste assim ah precisa falar  com tal pessoa olha procura tal pessoa que
+14:15
+que ajuda a resolver então essa interação dentro  do time isso hoje é é flui flui muito bem então
+14:24
+Ahã bem legal isso né vocês vocês têm um  conhecimento eh de quem fez né como como
+14:34
+é que lidou com com algum tipo de problema isso  ajuda bastante né Vocês tem vocês documentam esse
+14:40
+processo essas trocas que vocês têm nessa reunião  a cada três semanas a gente documenta sim eh tem
+14:50
+assim documenta não documenta no sentido de a  gente estamos aqui conversando e eu falo ó Roberto
+14:56
+procura tal pessoa is aente não comenta é conversa  do dia a dia agora a gente chegou ali na release
+15:03
+planning e a gente vai passar todos os trabalhos  e olhar o que aconteceu na semana se atingiu
+15:09
+100% ou se teve algum impedimento isso tem ali uma  planilha Excel que a gente Anota um por um eh qual
+15:15
+foi o problema que teve né E tem tem indicadores  para acompanhar ali de time tem diversos
+15:21
+indicadores hoje na auditoria para para acompanhar  essa evolução isso acontece em todos os times da
+15:27
+auditoria para pras outras áreas da auditoria  né acontece é é é o mesmo é o mesmo modelo assim
+15:36
+replicando em outros outras áreas de auditoria  É isso aí ah e e os mecanismos de implementação
+15:45
+eh quais os mecanismos que ajudaram a criar um  ambiente eh que esses membros se sentem Seguros
+15:52
+eles se sentem seguros para compartilhar né mesmo  questões que teve problemas né então acho que eu
+15:58
+tô imag que aí tem você tem esse ambiente seguro  de de compartilhamento de informações mesmo quando
+16:04
+teve problemas insem sucessos E como é que você  você vê isso aí na na auditoria teve uma mudança
+16:12
+cultural do do do anterior PR para agora né é  mais fluido essa essa questão Car é difícil eu
+16:20
+te dizer todos os times como eles funcionam né mas  assim no meu time é ninguém aponta o dedo ali e fala pô você foi culpado as pessoas relatam ali os  problemas e e não tem como não relatar né porque a
+16:33
+gente precisa minimamente acompanhar se falou  ah eu vou fazer para essa auditoria Vou fazer
+16:38
+cinco testes chegou no final das três semanas  se não fiz trê os cinco testes tem que explicar
+16:43
+porquê né Sim Isso é eh é uma mudança cultural  na auditoria imagino né eu sei não não sei como
+16:52
+é que era antes mas a partir de agora você tem  esses ambientes seguro para eles compartilharem as as os problemas né as dificuldades que eles  teve né sim e e já tem muita gente que já entrou
+17:03
+nesse modelo né Roberto então ah tem tem muita  talvez não sei te dizer quantos né mas talvez
+17:11
+até a maioria já nem conhece o modelo antigo né  Uhum certo imagina uma rotação de 10% né por ano
+17:18
+aí sim eh é a questão de liderança vocês  têm alguma liderança compartilhada dentro
+17:29
+dessa de cada reunião que acontece a cada três  semanas Ah como é que fica essa questão tem algum
+17:38
+moderador nessas reuniões como é que fica essa  questão de liderança ou só o o gerente ali da
+17:44
+do time que coordena essas reuniões ou vocês  se eh Se alternam entre essas essa liderança
+17:51
+clo time tem muita autonomia hoje em dia tá  tanto que nas minhas férias eu tiro férias as coisas as reuniões continuam fluindo né Eh  sexta-feira eu tava em treinamento foi foi dia
+18:03
+de release eu não peço pro time cara vamos passar  o a release para segunda-feira para eu participar
+18:10
+o time segue e toca a release planing autonomia  eh empoderamento dos times isso acontece de fato
+18:21
+aí dentro da auditoria acontece diversas vezes  eu não entro na Daily ali o time toca é é virou
+18:29
+o hábito já eh dentro dessas práticas ágeis vocês  tem as daes Ah todos os dias todos os dias é tem
+18:38
+as a dele a gente faz todo dia e o a cada três  semanas tem ess Tem essa release planning Ok eh
+18:59
+eh na sua opinião implementação do a  ajudou a alinhar melhor os objetivos
+19:04
+individuais dos auditores com os objetivos  gerais da equipe e da organização de
+19:09
+auditoria alinhamento entre meta  individual assim carreira as questões de
+19:19
+eh compartilhamento de de propostas Assim  entre vocês essa questão do do ambiente
+19:28
+Seguro enfim como é que se as metas são  definidas e acompanhadas tá tá mais claro
+19:34
+isso ou ou ficou mais mais difícil acho que  tem muitas metas aqui são iguais para para
+19:43
+todos né Por exemplo Ah muda os percentuais  por exemplo a qualidade da da US aderência
+19:50
+ali a à metodologia Ô Otávio tá pedindo para  ser admitido aí Pode admitir eu admiti aqui
+19:59
+mas então Oi
+20:06
+Otávio Ok ão fechando aqui o Roberto  acredito que tá mais tá bem alinhado
+20:16
+sim tem muitas metas ali que elas  são eh é bem pirâmide mesmo né
+20:22
+então qualidade é tá na meta do do  indivíduo do gerente vai até o dire
+20:31
+Oi boa noite tudo bem tudo bem tudo bom joia  só vim só vim olhar só espiar Ah boa Roberto
+20:46
+tá tem uma sequência de perguntas aqui voltando  desde os primórdios lá consequência de perguntas
+20:54
+e são bastante perguntas eu tô vendo a questão  do tempo aqui com com Marco para alinhar com as
+20:59
+outras pessoas né da El já me passou uns cinco  auditores Ah para fazer esse essa pesquisa eh
+21:11
+de que maneira a abordagem ág aumentou ou diminuir  a necessidade dos membros da equipe dependerem um
+21:17
+dos outros para concluir as tarefas de auditoria  eh você comentou antes né que tinha tem a questão
+21:27
+da interdependência dos membros né da do das  equipes é mas eu tô pensando se se reduziu
+21:35
+Acho que sim porque como a gente faz o eh a gente  tá sempre eh olhando pro portfólio como um todo e
+21:42
+essa transparência existe né então pelo menos na  equipe Todos sabem é onde a gente precisa chegar
+21:48
+no final do ano e todos os trabalhos que prisão  ser feitos né então se sei lá dar um exemplo
+21:54
+aqui tem o a o ikeda que é aqui do do time o pai  dele eh faleceu mês passado cara nesses nessas
+22:04
+reuniões a gente consegue se ele tem fic ter  ficar afastado a gente consegue se reorganizar e e e redistribuir ali as tarefas para fazer o o  o portfólio avançar como um todo e e as pessoas
+22:17
+são são bem conscientes ali né então eu acho que  existe bastante colaboração na nesse sentido né
+22:30
+tá eh como é que essa auto-organização  de vocês impactou o empoderamento da
+22:37
+equipe você pode fornecer um exemplo específico tá
+22:43
+Ah acho que as pessoas aqui elas conseguem  eh não tem muito hoje dia não tem muito da
+22:53
+da determinação e nem eu por exemplo eu não chego  ali pro time e falo fou cara você hoje você essa
+22:59
+semana nessa próxima relase você vai fazer aqui  eh cinco testes ou vai preparar tantos relatórios
+23:07
+na reunião é mais ou menos assim Olha isso aqui é  o trabalho e a pessoa que que fala ali quanto que ela tem de capacidade para fazer naquele naquele  período né então todo mundo sabe aonde tem que
+23:18
+chegar mas o o o quanto vai fazer ali é a pessoa  que fala ela que ela que se empodera disso e é
+23:27
+lógico todo mundo tá acompanhando todo mundo tem  noção ali se aquilo faz tá dentro do do esperado
+23:33
+ou não né Mas ninguém fica apontando o dedo  pessoa tem essa essa consciência ali de se eh
+23:41
+autorregular e autoc colocar os os trabalhos  a serem serem realizados né nessa divisão de
+23:47
+atividades existem algum confl existe conflitos e  como é que vocês lida com esses conflitos né assim
+23:54
+a pessoa tá sobrecarregada enfim é uma forma de  um conflito né é às vezes acontece né aí tem horas
+24:02
+que eu preciso cara determinar o que que acelera o  que que para o que que prioriza e e às vezes não é
+24:09
+o ac contento ali do que a pessoa queria fazer  né mas aí é mais pelo pelo todo e é combinado
+24:17
+em conjunto certo e eh na sua experiência essa  adoção de práticas ágeis permitiu que o time a
+24:26
+equipe de auditoria aprendesse aplicasse no os  conhecimentos de forma mais eficaz eh você tem
+24:32
+o aprendizado do time E se puder ilustrar isso com  exemplo alguma situação específica aí que você tem
+24:41
+aprendizado de quê do próprio aprendizado deag  aprendizado de outro tema do tema da auditoria
+24:48
+algum problema específico que vocês tiveram e tá  bom ah acho que acontece o que acontece bastante
+24:56
+é assim ah estamos na Daily e a gente teve o  sei lá vou dar o exemplo ah fiz um teste ali
+25:03
+de vazamento de vai vou dar os nomes aqui para  conseguir ficar até mais mais claro A Carol fez
+25:10
+um teste ali de eh vazamento de dados e o dlp  não deixou vazar segurou aí o outro cara que
+25:19
+é o Flávio ele fala pô mas eu tentei fazer eh  tal ajuste ali tentar vazar pela AP xpto Você
+25:27
+já tentou ISO isso a não não tentei Ah então vou  tentar então existe essa eh compartilhamento de
+25:35
+informações ali no no dia a dia do trabalho onde o  time compartilha informações né talvez se a gente
+25:41
+não tivesse essa reunião e se a Carol não fosse  perguntar diretamente pro pro Flávio Talvez esse
+25:48
+teste a gente nem faria né certo ah vamos dar um  pouco agora um foco das questões quer falar sobre
+25:58
+e os resultados da da auditoria né como você  aval o impacto geral da implementação ágil na
+26:05
+auditoria Olha o que tá Tá bom Acabou sim Acho  que o que tá mais no no mindset da da turma hoje
+26:17
+em dia é assim é primeiro a visibilidade de de  tudo que tem que ser feito né Por causa da das
+26:23
+reuniões definições de planejamento em em conjunto  e uma coisa que todos TM buscado muito e um okr
+26:33
+importante aqui é o Lead time esse é o que eu  mais escuto falar é o Lead time é quanto tempo
+26:38
+a gente faz uma desde o início de uma auditoria  até a Expedição do seu relatório esse número Hoje
+26:44
+ele tá a abaixo de 100 dias é um é um número que  antes era 120 dias já foi até maior que isso mas
+26:53
+hoje existem diversos indicadores e acho que  bateu acho que 90 36 dias o ano passado na
+27:00
+média e quais os aspectos específicos do  trabalho da auditoria foram mais afetados
+27:08
+por essa abordagem ágil acho tem essa do  da questão do tempo tem mais alguma outra
+27:15
+Ah o que mais me me impressiona é o  compartilhamento de informação mesmo viu
+27:22
+Roberto e uma coisa que tá legal agora nesses  modelos novos que eu que eu comentei com você
+27:30
+que são as releases planning né que a gente eh a  gente tem dois momentos de release planner só que
+27:36
+acabou dando esse o mesmo nome né Ah então você  tem a release planing dentro da a da gerência que
+27:43
+acontece a cada três semanas e você tem a release  planning dentro da auditoria que acontece a cada TRS meses essa que acontece dentro da auditoria  dentro da diretoria Ela é legal porque já coloca
+27:55
+eh todos os times juntos ali para discutir um  pouco do portfólio dos próximos três meses eh
+28:02
+e tem uma característica nas auditorias que são  a gente chama de auditoria integrada vou te dar
+28:08
+um exemplo tem uma pessoa lá que audita a o  negócio de crédito então concessão de crédito
+28:14
+para cartão de crédito tem um processo ali da  área de negócio que tem os modelos de crédito
+28:20
+eles têm regras de aprovação de crédito Então  imagina que eles têm t o time de produtos cartão
+28:27
+de crédito só que você tem modelos de cartão de  crédito Então a gente tem um time de cientistas de dados dentro da auditoria que é especialista  em avaliar modelos de crédito Então você percebe
+28:37
+que tem já tem mais um time agregado aqui para  poder fazer o trabalho junto que é o que a gente chama de auditoria integrada então tem o time que  audita os produto cartão tem o time que audita o
+28:47
+modelo de de crédito e tem um time aqui que vai  avaliar o sistemas eh de concessão de crédito aí
+28:55
+é um time de auditoria de Tecnologia Então você  percebe que tem três unidades aqui participando
+29:01
+Dea mesma auditoria essa reunião em conjunto  Ela é legal Para justamente já alinhar as datas
+29:07
+né não preciso mais ficar ali no mano a mano  ficar falando com diversos gerentes diversas
+29:12
+equipes e aí vamos que dia que a gente vai nessa  reunião a gente já faz um um combinado ali e se o
+29:19
+diretor ele já tem alguma expectativa específica  algum problema que ele tem ouvido em algum outro
+29:25
+fórum algum tipo de reclamação bassé que tá  acontecendo ele já coloca ali na mesa ajuda
+29:33
+direcionar a a estratégia de de testes do time  tá eh e e fora desse contexto dessa auditoria
+29:40
+integrada eh os os os membros das equipes eles  podem conversar entre essas equipes entre times
+29:48
+acontece isso ah total né não tem passar pela  hierarquia acontece se não acontece é puxando
+29:55
+de orelha né meu uma coisa aqui é é super bem  Vista né é ninguém pode ser cotovelo aqui E
+30:03
+isso acontece bastante tá é esse negócio de  Silos aqui é cada vez mais eh abominado aqui
+30:11
+dentro do Itaú né acontece não não vejo acontecer  na auditoria entre os times de auditoria Mas vejo
+30:19
+ainda acontecer entre algumas áreas de negócio né  mas acho que não não é o o o escopo aqui da Ah sim
+30:26
+da pesquisa né ah ah comparando com a abordagem  tradicional né da da auditoria você como você
+30:32
+avalia a eficácia da auditoria agem tempos de  tempo e tempo e qualidade dos resultados tempo
+30:41
+você comentou né questão do tempo mas em termos  de qualidade dos resultados do para quem você tá
+30:47
+auditando né o auditado como é que ele tá olhando  essa questão da qualidade dos resultados tá eh
+30:58
+cara qualidade é eu pensar aqui acho que é um  pouco mais subjetivo né se o cara vai gostar da
+31:06
+da auditoria ou não né Tem tem cara que ganha o  pão de auditoria e fala meu que horrível né Tem
+31:12
+um cara que ganha P de auditoria Fala [ __ ] que  legal que eu não tava enxergando isso agora eu eu
+31:19
+não tenho essa eu não consigo dizer que isso a  qualidade final do trabalho ela se dá por causa
+31:26
+do á mas sim o ágio ele sempre Vai facilitar  ali a as conversas para você ter eh ter testes
+31:34
+ali mais eh aprofundados e assim compartilhar o  conhecimento entre os times né agora fazer uma
+31:40
+relação direta que Putz foi o ágil que melhorou  a qualidade do trabalho eu tenho um pouco de dificuldade de dizer isso eh e vocês tem métricas  específicas para medir sucesso de implementação da
+31:53
+da auditoria e quais são são essas específicas  ali que vocês estão olhando além você comentou
+31:59
+de algumas métricas aí durante a nossa conversa  mas você pudesse para essa pergunta específica
+32:04
+você citar algumas mais importantes aí tem um  painel de indicadores aqui para cada eh assim
+32:12
+primeiro a qualidade da da auditoria né quando  eu digo a qualidade de auditoria do trabalho
+32:17
+de auditoria Então tem um Quality assurance  aqui que eh seguir a metodologia é um aspecto
+32:25
+super importante então a você tem que documentar  o vou te dar um exemplo né você tem que documentar
+32:32
+o papel de trabalho de uma forma que ele seja  rastreável e que um um próximo auditor ele consiga
+32:38
+reperformance para isso onde um time AC acaba  criticando o o outro né Eh mas isso não não é
+32:51
+específico do do os sempre teve né ah do ario que  a gente tem tem alguns indicadores específicos ali
+32:57
+de de É acho que sua pergunta não é só pro áo né  É É aspectos e da implementação do áo SIM do áo
+33:04
+só do ágio isso não não é a não são indicadores  da auditoria né então sobre o ágil acho que tem
+33:13
+um painel de indicadores de eh como a gente tá  evoluindo com a é é é é mais focado em projeti
+33:21
+zação mesmo né é planejado realizado planejado  realizado né Eh planejou planejou fazer tantas
+33:27
+coisas fez tantas coisas e fica nisso ah de forma  recorrente né a cada a cada três semanas fazendo
+33:35
+essa essa avaliação e repriorização ess acho que  esse é o aspecto mais mais forte do do áo né Essa
+33:42
+métrica é respondida por todos individualmente ou  pelo time né é uma métrica é uma variável ali de
+33:51
+time é de time é da da Auditoria da auditoria como  um todo acho que o Lead time é o é o mais forte
+33:58
+né o quando você for falar com você falar com o  Gabriel né que é um cara que eu te indiquei ali
+34:04
+ele trabalha com Andressa aí ele vai ele vai  conseguir te passar com mais detalhes os os
+34:10
+indicadores ágil porque ele tá a gente existe  uma existe uma um projeto dentro da auditoria
+34:17
+que chama eh avanço da auditoria ágil dentro da  auditoria né então esse esse time ele tá sempre
+34:25
+focado no nos avanços da eh desses indicadores eu  eu não tô mais nesse projeto né já quando a gente
+34:33
+começou a quando a gente começou a pesquisa  lá atrás que a gente conversou eu participava
+34:39
+desse grupo agora eu migrei para para um outro  grupo Mas então o Gabriel a Andressa ali são as
+34:45
+pessoas que TM mais ah afinidade ali para te  falar o os okr específicos dessa frente ágil
+34:53
+Ah com essa implantação do ágil Teve alguma  influência na contratação do composição de
+35:03
+equipe para os projetos de auditoria como é que  ela como é que ela afeta essa contratação né você
+35:09
+tem que olha mais perfil do dos contratados tem  tem alguma relação aí com com a a aquisição para
+35:16
+o time com com recrutamento de seleção você tem  cara as últimas as últimas contratações que eu
+35:24
+fiz eu não esse não foi uma um Um item que eu eh  que eu avaliava se a pessoa conhece práticas Ares
+35:33
+ou não acho que tá tão tão divulgado isso  que não me gerou esse tipo de preocupação
+35:39
+Ah e com relação como é que você descreveria  os resultados entregues pelas equipes de
+35:48
+auditoria agem em comparação com as com abordagem  tradicional né você você participou desses dois
+35:54
+ciclos aí né de abordagem tradicional e o ágil  como é que você descreve esses resultados aí com o
+36:02
+ágil cara mudou tanta coisa desde nos últimos  anos né eu posso te dar um exemplo que para
+36:11
+você ter noção eh antigamente uma revisão  de um relatório eh eu fazia o relatório
+36:17
+de auditoria imprimia e deixava na no  escaninho do superintendente para ele
+36:22
+revisar com a caneta e depois ele  me devolvia hoje emem dia tudo work flog agora se não fosse ág agora não sei se isso  tá trelado ao ágil ou não né acho que é um pouco
+36:36
+da da evolução até da da própria pandemia que  nos obrigou a isso né agora tem tem diversas
+36:43
+mudanças aqui que são são feitas Ó tem uma outra  aqui que é assim ó a cada auditoria ela tem tem
+36:51
+três grandes blocos né planejamento execução  e conclusão Ah o que que divide de esses esses
+36:58
+três blocos a gente chama de to Gate então to  Gate 1 to Gate 2 tá pedágio um pedágio dois
+37:05
+então você faz uma reunião no fez o planejamento  você faz uma reunião formal ali para falar olha
+37:11
+Esso aqui é o nosso planejamento esse aqui  são os nossos testes que a gente vai fazer
+37:16
+ah no passado acho que esse esse to Gate aqui  cara a galera levava um material absurdo ali
+37:26
+tudo quanto era a possibilidade ali para poder  dar uma aula pro superintendente e a reunião de
+37:32
+uma hora às vezes era pouco né hoje você tem  essas reuniões de TOL Gates elas são assim o
+37:38
+tem que ser feita com superintendente né ah o  cara reserva ali um tempo de 2 horas na agenda
+37:46
+dele na semana e cara a gente vai colocando  um monte de to Gates lá variados você não tem
+37:52
+mais uma reunião específica para o TOL Gate do  trabalho xpto assim reunião de to Gates aí você
+37:59
+vai lá e encaixa a um to Gate 1 outra to Gate  2 outro quer falar fazer um KickOff acho que é
+38:05
+uma mudança Sutil aqui mas essa e essa veio pelo  ágil né Tá certo eh a gente vai caminhando paraa
+38:14
+conclusão né Tem uma hora mais ou menos de de  conversa Ah vamos falar um pouco sobre futuro do
+38:22
+da auditoria agem né como é que você vê o futuro  da auditoria agem evoluindo de um modo geral
+38:27
+tá bom ah e Quais mudanças você antecipa eh  para os próximos anos alguma coisa que você
+38:35
+tá identificando aí dentro do contexto do áo  tá ou da auditoria Tá bom então tem esse tem
+38:41
+esse time aí que é um time pensante focado em  eh em sempre melhorar os processos da auditoria
+38:47
+que é o é o time de de ágil né a acho que a  principal mudança que vem aqui no próximo ano
+38:54
+é essa migração eh que a gente tá a fal chamando  ali de ã modelo parcial para um modelo ágil full
+39:02
+que eh hoje então hoje a gente tem alguns times  que TM auditoria ah planejada pro ano inteiro
+39:11
+que é o meu caso então eu sei quanto ten tenho  que fazer lá 25 auditorias no ano 25 trabalhos
+39:16
+de auditoria no ano eh tem os outros times que  não o cara sabe o pessoal sabe lá que eles têm
+39:22
+que fazer seis auditorias no primeiro trimestre  o que eles vão fazer no próximo no trimestre eles
+39:28
+vão decidir ali na próxima release planning acho  que essa é a próxima grande mudança tá eh existem
+39:39
+práticas ou ferramentas específicas que poderia  aprimorar mais auditoria aí no no contexto do do
+39:45
+banco eh ah o que tem o que tá sendo feito aqui  é muito adaptação das famento que a gente tem
+39:53
+né acho o No começo eu pensava quando fala de  ferramenta para fazer gestão ágil no começo a
+39:59
+gente pensava até usar o Gira mas parecia e muito  Exagerado você ter uma ideia o Gira hoje nem se
+40:07
+usa mais no banco né então dentro da auditoria  o que foi feito uma adaptação simples ali para
+40:12
+usar o o canan que a gente tem no próprio teams  eh e aí nesse Microsoft 365 você faz extração de
+40:20
+dados joga pro Excel Então as ferramentas hoje  para fazer gestão ali da eh do Agio são acho que
+40:29
+eu posso mencionar quatro né então é o canan que  é do do próprio teams a Excel né que usa para um
+40:37
+monte de coisa você tem ali o o quick site que é  para fazer diversos relatórios a qu site da da aws
+40:48
+Você tem o a ferramenta de gestão de de trabalhos  que chama iam né é da IBM que a gente tem aqui
+40:57
+e eu posso falar mais uma aqui que é o Power  automate então basicamente é o Microsoft 365 mais
+41:06
+o IBM eh Open pages ess são os grandes blocos de  ferramentas tá não tem muito eh eh pode falar que
+41:16
+é muito rpa mais a ferramenta da da IBM rpa gerado  aqui com o eh Microsoft 365 certo e uma questão
+41:28
+de de Inteligência Artificial como é que tá sendo  uso aí pela equipe de auditoria pela auditoria em
+41:35
+geral né de forma super intensa é um uma avalanche  de uso de Inteligência Artificial generativo
+41:43
+aqui Inteligência Artificial já se utilizava há  bastante tempo aqui para modelos de e de machine
+41:51
+learning modelos mais complexos aqui que o time  de cientistas de dados da auditoria sempre usou
+41:58
+e tentou eh distribuir aqui na tentar fazer de  uma forma que a auditoria toda pudesse sempre
+42:05
+utilizar o modelo que eles criassem né agora a  generativa cara a galera tá fazendo um monte de
+42:11
+exemplos aqui usando para diversos testes Tem uma  galera lá de seguros que fez um fez um teste assim
+42:20
+é Eh vamos dar um exemplo do pessoal de fundos  ali Man aquelas lâminas que você tem de fundo
+42:27
+que você coloca na internet você fala assim ó o  fundo fundo xpto ele é investe tanto risco é tanto
+42:37
+e o banco sei lá tem 300 Fundos né a galera fazer  auditoria P olhava um por um Então os Car usaram
+42:47
+a i generativa PDF Bota fala qual que é o padrão  lá e a ferramenta d todas as as aqui de forma mais
+42:58
+mais rápida né cara fora tem um monte de exemplos  aqui a galera tá usando tá usando direto e a gente
+43:06
+para uma ferramenta forte aqui pra gente revisar  relatório então a a escrita do relatório cara hoje
+43:13
+todo o relatório todo mundo escreve bonito hoje  porque você vai lá e escreve bota lá e fala revisa
+43:19
+meu texto e e melhora né pô é aquele parágrafo  bonitão né você coloca lá no no relatório
+43:28
+certo eh a gente sa esse bloco aí de de futuro  do ajo eh umas questões específicas aqui de
+43:36
+questões demográficas né Eh seu cargo atual na na  organização gerente de auditoria a sua experiência
+43:44
+total em auditoria em anos 12 anos ah 13 anos 13  é ah Quanto tempo você atua como leer de equipe da
+43:57
+auditoria 13 anos 13 anos ah Quantos  auditores você lidera atualmente oito
+44:08
+e a sua principal área de especialização  eh como é que você chama aí dentro da
+44:16
+auditoria como é a a a o que que eu  audito audito processo de prevenção
+44:27
+uma frud seria essa a pergunta canais digitais  isso sua suas sua principal área de especialização aí na auditoria né Qual seu Tá bom então hoje  audito os processos de prevenção a fraudes e e
+44:39
+audito os canais digitais tá eh finalizando Você  tem algum comentário adicional que você gostaria
+44:49
+de compartilhar Algum insite cara Acho que não  né não entrevista aí tá bem completa n tem um
+44:57
+monte coisa aí que às vezes ten até dúvida aqui  resgatar lá na memória o que que tá acontecendo
+45:03
+né que aconteceu Ok então Eh os próximos passos  agora a gente vai vai continuar a conversa né com
+45:13
+os outros auditores se indicou né a gente vai  começar dar início a tabulação a transcrição e
+45:19
+aí a gente volta para uma rodada de compartilhar  essas informações né então só para encerrar aqui o
+45:27
+Cola agradeço aí pela sua contribuição e vou  parar a gravação aqui beleza obrigado Marco falou
+45:36
+Roberto O que que o que que tava ruim aí Marco  nessas perguntas que tá ruim funcional é o que que
+45:56
+os caras vão sentir dificuldade que parece meio  descolado do do assunto tem algo assim o que eu
+46:05
+tive mais dificuldade é quando a gente fala mais  sobre o passado né quando a gente fala sobre o presente futuro tá tudo mais fresco na na memória  quando fala no passado eh quando que começou a
+46:17
+mudança esse tipo de coisa que eu tive mais tenho  mais dificuldade para para relembrar esse são são
+46:22
+itens que talvez seja fresco na cabeça da Andre  por exemplo ela vive fazendo as as apresentações
+46:30
+ela tem lá um PowerPoint com as datas de quando  quando implementou e e bem ali estruturado Que que
+46:38
+foi acontecendo agora do do dia a dia aqui acho tá  acho que tá tá fácil de de responder e do Futuro
+46:48
+também quando o Roberto pergunta você sente você  se sentiu eh desinibido para responder ou aquilo
+46:58
+ali ou era uma algo que digamos te impedia ou te  dificultava raciocinar de algum jeito ou não você
+47:10
+acha que isso vai acontecer com os caras de algum  jeito acho que não o pessoal que eu indiquei aqui
+47:17
+são as pessoas mais descoladas ali não não por  isso a maneira do tô tentando torturar o Roberto
+47:24
+aqui para ver se ele qual se a forma de fazer eu  não sou especialista nem nem de perto né nem de
+47:33
+longe né Eu sou especialista em entrevista né Tá  eu não sei como eu deixaria tenho certeza que eu
+47:41
+intimidar o entrevistado se eu fosse perguntar  a minha maneira de ser de falar então eu creio
+47:48
+que aí eu perguntando se o Roberto tem isso ele se  ele estimula a falar mais ou menos acho que menos
+47:56
+nãoé não parece isso é que talvez parece meio meio  mecânico assim a pergunta dele acho que não é acho
+48:03
+que eh é de não ter a vivência aqui um pouco da  da auditoria né tá gravando aí ainda viu Roberto
+48:10
+tá gravando é é sacanagem hein [ __ ] é foi um  truque Não sei não sei que se você queria deixar

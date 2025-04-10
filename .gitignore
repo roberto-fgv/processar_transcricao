@@ -1,4 +1,3 @@
 # Ignorar todos os arquivos .txt
-*.txt
 *.Rhistory
 # Outras regras podem ser adicionadas aqui
