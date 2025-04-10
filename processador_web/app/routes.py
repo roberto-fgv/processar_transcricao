@@ -4,7 +4,7 @@ from app.forms import UploadForm
 from app.utils import processar_transcricao
 import io
 
-@app.route('/', methods=['POST'])
+@app.route('/', methods=['GET', 'POST'])
 def index():
     form = UploadForm()
     return render_template('index.html', form=form)
