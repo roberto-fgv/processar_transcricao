@@ -17,12 +17,22 @@ def processar():
     arquivo = request.files['arquivo']
     if arquivo.filename == '':
          return jsonify({'erro': "Nenhum arquivo foi enviado"}), 400
+    
+    
     try:
-        texto = arquivo.read().decode('utf-8')
+        try:
+            texto = arquivo.read().decode('utf-8')
+        except UnicodeDecodeError as e:
+            print("Erro ao decodificar o arquivo:")
+            print(str(e))            
+            return jsonify({'erro': "Erro ao decodificar o arquivo. Certifique-se de que o arquivo esteja em formato UTF-8."}), 500
         texto_processado = processar_transcricao(texto)
         return jsonify({'texto_processado': texto_processado, 'sucesso': True})
-    except Exception as e:
+    except Exception as e:        
+        print("Erro ao processar o arquivo:")
+        print(str(e))
         return jsonify({'erro': str(e)}), 500
+
 
 @app.route('/download', methods=['GET'])
 def download():

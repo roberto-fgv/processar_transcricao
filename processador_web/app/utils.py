@@ -6,11 +6,13 @@ def processar_transcricao(texto):
     timestamp = None
 
     for linha in linhas:
-        match = re.match(r"(\d+:\d+)", linha)
+        match = re.match(r"(\d+:\d+)", linha)        
         if match:
             timestamp = match.group(1)
-            if linha[len(timestamp):].strip():
+            if linha[len(timestamp):].strip():                
                 resultado.append(f"{timestamp} {linha[len(timestamp):].strip()}")
+            else:
+                resultado.append(f"{timestamp} ")
                 
         elif linha.strip():
             # Adiciona texto sem timestamp ao último timestamp
