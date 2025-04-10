@@ -20,7 +20,7 @@ processador_web/
 │       └── index.html       # Main web page
 ├── run.py                   # Script to run the Flask application
 ├── requirements.txt         # Project dependencies
-└── README.md                # Project documentation
+└── [README.md](http://_vscodecontentref_/0)                # Project documentation
 ```
 
 ## How to Run
@@ -31,12 +31,16 @@ Before running the project, make sure you have Python and pip installed on your 
     *   Navigate to the `processador_web` directory in your terminal.
     *   Run the following command to install the project dependencies:
 
-        ```bash pip install -r requirements.txt```
+        ```
+        pip install -r requirements.txt
+        ```
 
 2.  **Run the Application:**
     *   Still in the `processador_web` directory, execute the `run.py` script:
     
-        ```bash python run.py```
+        ```
+        python run.py
+        ```
 
 3.  **Access the Application:**
     *   Open your web browser.
