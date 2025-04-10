@@ -1,14 +1,16 @@
 document.addEventListener('DOMContentLoaded', function() {
     const form = document.getElementById('uploadForm');
     const textoProcessado = document.getElementById('textoProcessado');
+    const textoOriginal = document.getElementById('textoOriginal');
     const downloadButton = document.getElementById('downloadButton');
     let textoProcessadoGlobal = '';
-    const handleFormSubmit = (event) => {
+    const handleFormSubmit = async (event) => {
         console.log('Formulário submetido!');
         event.preventDefault();
         const mensagemErro = document.getElementById('mensagemErro');
 
         const formData = new FormData(form);
+        console.log(formData);
 
         fetch('/processar', {
             method: 'POST',
@@ -21,11 +23,11 @@ document.addEventListener('DOMContentLoaded', function() {
             if (!responseClone.ok) {
                 console.log("erro in response.ok");                
                 throw new Error('Erro ao processar o arquivo.');
-            }            
+            }       
             return responseClone.json();            
 
         })        
-        .then(data => {
+        .then(async data => {
             console.log("Data in then(data):", data);
             
            if (data.erro) {
@@ -33,6 +35,15 @@ document.addEventListener('DOMContentLoaded', function() {
                 textoProcessado.value = '';
                 downloadButton.style.display = 'none';
             } else {
+                const fileInput = document.querySelector('input[type="file"]');
+                const file = fileInput.files[0];
+                console.log("file", file)
+                console.log("file exists?", file != null)
+                const fileText = await file.text();
+                console.log("fileText", fileText);
+                textoOriginal.value = fileText;
+                
+
                 textoProcessadoGlobal = data.texto_processado;
                 textoProcessado.value = data.texto_processado;
                 mensagemErro.textContent = '';
