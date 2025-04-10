@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const downloadButton = document.getElementById('downloadButton');
     let textoProcessadoGlobal = '';
     const handleFormSubmit = (event) => {
+        console.log('Formulário submetido!');
         event.preventDefault();
         const mensagemErro = document.getElementById('mensagemErro');
 
@@ -11,16 +12,23 @@ document.addEventListener('DOMContentLoaded', function() {
 
         fetch('/processar', {
             method: 'POST',
-            body: formData
+            body: formData            
         })
         .then(response => {
-            if (!response.ok) {
+            const responseClone = response.clone();
+            console.log('Response Clone:', responseClone);
+            console.log('Response Clone OK:', responseClone.ok);
+            if (!responseClone.ok) {
+                console.log("erro in response.ok");                
                 throw new Error('Erro ao processar o arquivo.');
-            }
-            return response.json();
-        })
+            }            
+            return responseClone.json();            
+
+        })        
         .then(data => {
-            if (data.erro) {
+            console.log("Data in then(data):", data);
+            
+           if (data.erro) {
                 mensagemErro.textContent = data.erro;
                 textoProcessado.value = '';
                 downloadButton.style.display = 'none';
@@ -32,6 +40,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         })
         .catch(error => {
+            console.error('Erro:', error);
             mensagemErro.textContent = error.message;
             textoProcessado.value = '';
             downloadButton.style.display = 'none';
