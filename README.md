@@ -1,49 +1,59 @@
-# Processador de Transcrição
+# Web Transcription Processor
 
-Este script Python é utilizado para processar arquivos de transcrição de texto, formatando timestamps e organizando o conteúdo de forma mais legível. Ele foi projetado para processar transcrições provenientes de legendas do YouTube.
+This project is a web application that allows users to upload text files, process them to format timestamps, and then download the formatted output. The application is built using Flask (a Python web framework), HTML, CSS, and JavaScript, and it provides a user-friendly interface for working with transcriptions.
 
-## Funcionalidades
+## Project Structure
 
-- Detecta timestamps no formato `minuto:segundo` (ex.: `0:15`, `1:00`) e os associa ao texto correspondente.
-- Junta linhas de texto sem timestamp ao último timestamp detectado.
-- Mantém linhas em branco para separação visual.
-- Permite selecionar um arquivo de entrada e salvar o resultado processado em um arquivo de saída.
+The project is organized into the following directory structure:
 
-## Como usar
-
-1. **Requisitos**:
-
-   - Python 3.x instalado.
-   - Biblioteca padrão `tkinter` (geralmente já incluída no Python).
-
-2. **Execução**:
-
-   - Execute o script no terminal ou em um ambiente Python.
-   - Uma janela será aberta para selecionar o arquivo de transcrição de entrada (formato `.txt`).
-   - Após o processamento, outra janela será aberta para salvar o arquivo formatado.
-
-3. **Formato de Entrada**:
-
-   - O arquivo de entrada deve conter timestamps no formato `minuto:segundo` no início das linhas, seguidos pelo texto correspondente.
-
-4. **Formato de Saída**:
-   - O arquivo de saída terá os timestamps organizados e o texto formatado.
-
-## Exemplo de Entrada
-
-```plaintext
-0:15
-Olá, bem-vindo à transcrição.
-0:30
-Este é um exemplo de como funciona. Aqui está uma linha sem timestamp.
+```
+processador_web/
+├── app/                     # Main application code
+│   ├── __init__.py          # Flask app initialization
+│   ├── routes.py            # API routes and request handling
+│   ├── forms.py             # Form definitions (e.g., upload form)
+│   ├── utils.py             # Utility functions (e.g., text processing)
+│   ├── static/              # Static files (CSS, JavaScript)
+│   │   ├── style.css        # CSS styles
+│   │   └── script.js        # JavaScript for client-side logic
+│   └── templates/           # HTML templates
+│       └── index.html       # Main web page
+├── run.py                   # Script to run the Flask application
+├── requirements.txt         # Project dependencies
+└── README.md                # Project documentation
 ```
 
-## Exemplo de Saída
+## How to Run
 
-```plaintext
-0:15 Olá, bem-vindo à transcrição.
-0:30 Este é um exemplo de como funciona. Aqui está uma linha sem timestamp.
-```
+Before running the project, make sure you have Python and pip installed on your system. Then, follow these steps:
+
+1.  **Install Dependencies:**
+    *   Navigate to the `processador_web` directory in your terminal.
+    *   Run the following command to install the project dependencies:
+
+        ```bash pip install -r requirements.txt```
+
+2.  **Run the Application:**
+    *   Still in the `processador_web` directory, execute the `run.py` script:
+    
+        ```bash python run.py```
+
+3.  **Access the Application:**
+    *   Open your web browser.
+    *   Go to `http://127.0.0.1:5000/`.
+
+## How to Use
+
+1.  **Select a File to Process:**
+    *   On the web page, use the file input to select a `.txt` file containing the transcription you want to process.
+
+2.  **Process the File:**
+    *   Click the "Processar" button.
+    *   The application will process the transcription, format the timestamps, and display the results in the text area on the page. The page will not be reloaded.
+
+3.  **Download the Processed File:**
+    *   Once the text is processed, a "Download" button will appear.
+    *   Click the "Download" button to save the formatted text to a file on your computer.
 
 ## Autor
 

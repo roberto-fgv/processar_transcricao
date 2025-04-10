@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Processador de Transcrição</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Processador de Transcrição</h1>
+    <form id="uploadForm" method="POST" enctype="multipart/form-data">
+        <input type="file" name="arquivo" required>
+        <button type="submit">Processar</button>
+    </form>
+    <button id="downloadButton" style="display: none;">Download</button>
+    <hr>
+    <div id="mensagemErro"></div>
+    <textarea id="textoProcessado" rows="20" cols="80" readonly></textarea>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
