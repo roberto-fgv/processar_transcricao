@@ -2,6 +2,24 @@
 
 Este projeto é uma aplicação web que permite ao usuário fazer upload de arquivos de texto, processá-los para formatar timestamps e baixar o resultado formatado. A aplicação é construída em Flask (Python), HTML, CSS e JavaScript, oferecendo uma interface amigável para trabalhar com transcrições.
 
+## Público-alvo e Objetivo
+
+Esta aplicação foi desenvolvida principalmente para quem utiliza transcrições do YouTube para análise de dados. Ao copiar transcrições diretamente do YouTube, normalmente cada timestamp aparece em uma linha separada do texto, dificultando a análise e o processamento posterior. Esta ferramenta resolve esse problema ao colocar o timestamp e o texto correspondente na mesma linha, facilitando o uso dos dados em análises, planilhas e outras ferramentas.
+
+### Exemplo de entrada (copiado do YouTube):
+```
+0:15 
+Inicialmente, eu gostaria de entender quando
+0:25 
+e por que sua organização decidiu implementar as  metodologias ágeis nos processos de de auditoria?
+```
+
+### Saída após o processamento:
+```
+0:15 Inicialmente, eu gostaria de entender quando
+0:25 e por que sua organização decidiu implementar as  metodologias ágeis nos processos de de auditoria?
+```
+
 ## Estrutura do Projeto
 
 ```
